@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit_lottie as st_lottie
+import streamlit_lottie as lottie
 import pandas as pd
 from streamlit_extras.let_it_rain import rain
 import plotly as pl
